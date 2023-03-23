@@ -1,0 +1,25 @@
+@charset "UFT-8";
+
+fieldset#f1 {
+    margin: 20px;
+    width: 353px;
+    text-align: left;
+}   
+
+fieldset#sexo {   
+    margin: 20px;
+    width: 150px;
+    text-align: left;
+}
+
+fieldset#f3 {   
+    margin: 20px;
+    width: 353px;
+    text-align: left;
+}
+
+fieldset#f4 {   
+    margin: 20px;
+    width: 353px;
+    text-align: left;
+}

@@ -1,0 +1,25 @@
+@charset "UFT-8";
+
+fieldset id #1 {
+    margin: 20px;
+    width: 353px;
+    text-align: left;
+}   
+
+fielsdset id #2 {   
+    margin: 20px;
+    width: 150px;
+    text-align: left;
+}
+
+fielsdset id #3 {   
+    margin: 20px;
+    width: 353px;
+    text-align: left;
+}
+
+fielsdset id #4 {   
+    margin: 20px;
+    width: 353px;
+    text-align: left;
+}
